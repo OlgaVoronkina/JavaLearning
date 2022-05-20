@@ -1,0 +1,4 @@
+rootProject.name = 'JavaLearning'
+include 'square'
+include 'addressbook'
+
