@@ -1,10 +1,8 @@
 package appmanager;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class SessionHelper extends  HelperBase{
-    private FirefoxDriver wd;
 
     public SessionHelper(FirefoxDriver wd) {
         super(wd);
